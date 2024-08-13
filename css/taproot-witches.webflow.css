@@ -74,7 +74,7 @@ body {
   font-family: Pixeldust, sans-serif;
   font-size: 62px;
   font-weight: 400;
-  line-height: 74px;
+  line-height: 70px;
 }
 
 .hero-sub {
@@ -935,10 +935,10 @@ body {
 .image-25 {
   display: inline-block;
   position: absolute;
-  top: 88px;
+  top: 80px;
   bottom: 0;
   left: auto;
-  right: 80px;
+  right: -40px;
 }
 
 .image-26 {
@@ -1769,8 +1769,7 @@ body {
   }
 
   .image-25 {
-    top: 43px;
-    right: 0;
+    top: 35px;
   }
 
   .image-26 {
@@ -2446,7 +2445,7 @@ body {
     top: 22px;
     bottom: 0%;
     left: auto;
-    right: 0%;
+    right: -2%;
   }
 
   .image-26 {
